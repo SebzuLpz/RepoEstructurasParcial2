@@ -1,1 +1,2 @@
-# RepoEstructurasParcial2
+- Juan Sebastián López Parra.
+  
